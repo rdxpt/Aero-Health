@@ -70,6 +70,12 @@ The model evaluates performance on the test set using **Root Mean Squared Error 
     -   Training History (Loss & MAE)
     -   True vs. Predicted RUL comparison
     -   Prediction Error Distribution
+ 
+**Model loss function vs Epochs graph**
+<img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/37fb9916-7390-412b-900a-6b56752ed095" />
+
+**Model Testing**
+<img width="1141" height="528" alt="image" src="https://github.com/user-attachments/assets/f3553af4-9ec3-437d-8b31-d2b3826cb20e" />
 
 ## 📂 Project Structure
 
